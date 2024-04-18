@@ -23,11 +23,17 @@ o	What different classifications does the demographic information suggest? Age? 
 o	What differences can you find in ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.</p>
 <p><b>Data</b></p>
 <p>The datasets used were:-
-o	Customers
-o	Orders
-o	Orders_products_prior
-o	Products
-o	Departments</p>
+  
+	Customers
+
+  Orders
+
+	Orders_products_prior
+
+	Products
+
+	Departments</p>
+
 <p><b>Tools</b></p>
 <p>The data was analyzed using Python and the following supporting libraries:
 o	Pandas: for data analysis
