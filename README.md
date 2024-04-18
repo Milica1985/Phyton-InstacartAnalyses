@@ -24,15 +24,15 @@ o	What differences can you find in ordering habits of different customer profile
 <p><b>Data</b></p>
 <p>The datasets used were:-
   
-	Customers
+Customers
 
-  Orders
+Orders
 
-	Orders_products_prior
+Orders_products_prior
 
-	Products
+Products
 
-	Departments</p>
+Departments</p>
 
 <p><b>Tools</b></p>
 <p>The data was analyzed using Python and the following supporting libraries:
