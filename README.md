@@ -36,11 +36,16 @@ o	Seaborn: for data visualizations
 o	Matplotlib: for data visualizations
 o	SciPy: for mathematical equations</p>
 <p><b>Folders</b></p>
-<p>The project files are stored in following folder structure:
-o	01 Project Management: Project brief
+
+<b>The project files are stored in following folder structure:</b>
+  
 o	02 Data: Separated into two subfolders Original Data which contain the original data frames and Prepared Data contain the data frames after they have been cleaned and prepared for analysis. (Data files not uploaded to GitHub due to size limitations.)
+
 o	03 Scripts: Jupyter notebooks containing coding for the analysis.
+
 o	04 Analysis: The Visualizations subfolder contains the visualizations used for developing and explaining insights.
+
 o	05 Sent to Client: The final report presented in Excel</p>
+
 <p><b>Resources<b/></p>
 <p>Note: Although Instacart is a legitimate company, CareerFoundry fabricated the contents of the attached project brief for the purpose of this analysis.</p>
